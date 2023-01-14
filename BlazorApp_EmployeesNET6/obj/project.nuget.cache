@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "7PopK2NLsh8SQTcCEeA61d3PClUQmFUva7n4oFX+6KQxwGK8lyfwuR/fmH1l60U0UU494ePKkIn1GosdCkH/dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abir Tabib\\Desktop\\gl3\\SecurityIdentityBlazor\\BlazorApp_EmployeesNET6\\BlazorApp_EmployeesNET6\\BlazorApp_EmployeesNET6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abir Tabib\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\Abir Tabib\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Abir Tabib\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Abir Tabib\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abir Tabib\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abir Tabib\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Abir Tabib\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
